@@ -5,15 +5,16 @@
 
 //Import React library
 import React from 'react';
-
 //Import react-dom
 import ReactDOM from 'react-dom';
+//Import ImageList component
+import ImageList from './components/image_list';
 
 //Create a component
 const App = () => {
     return (
         <div>
-            React App #2
+            <ImageList />
         </div>
     );
 };
