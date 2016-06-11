@@ -21,6 +21,7 @@ class App extends Component {
     }
 
     componentWillMount() {
+        //Promise
         //Good place to load data.  Will be called once per component use
         axios.get('https://api.imgur.com/3/gallery/hot/viral/0')
             .then(response => this.setState({ images: response.data.data }));
@@ -29,7 +30,7 @@ class App extends Component {
     render() {
         return (
             <div>
-                <ImageList />
+                <ImageList images={this.state.images}/>
             </div>
         );
     }

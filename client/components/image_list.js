@@ -7,15 +7,9 @@ import React from 'react';
 //Import ImageDetail component
 import ImageDetail from './image_detail';
 
-const IMAGES = [
-    { title: 'Pen', link: 'http://dummyimage.com/600x400' },
-    { title: 'Pine Tree', link: 'http://dummyimage.com/600x400' },
-    { title: 'Mug', link: 'http://dummyimage.com/600x400' }
-];
-
 //Create the component
-const ImageList = () => {
-    const RenderedImages = IMAGES.map((image) => {
+const ImageList = (props) => {
+    const RenderedImages = props.images.map((image) => {
         return <ImageDetail key={image.title} image={image} />
     });
 
