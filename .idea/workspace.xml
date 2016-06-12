@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/client/components/image_detail.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -74,8 +74,8 @@
       <file leaf-file-name="image_score.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/components/image_score.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5102319">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.4638472">
+              <caret line="20" column="96" selection-start-line="20" selection-start-column="96" selection-end-line="20" selection-end-column="96" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -371,15 +371,15 @@
     <entry file="file://$PROJECT_DIR$/client/components/image_detail.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/components/image_score.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5102319">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.4638472">
+          <caret line="20" column="96" selection-start-line="20" selection-start-column="96" selection-end-line="20" selection-end-column="96" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
